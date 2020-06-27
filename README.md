@@ -8,6 +8,8 @@ We utilized two csv files for the analysis conducted on the performance of the s
 The data that was removed were the scores for ninth graders from Thomas High School. The average math score for this group is 83.6% and average reading score is 83.7%.
 
 
+### Analysis
+
 #### District Summary
 
 >How is the district summary affected?
